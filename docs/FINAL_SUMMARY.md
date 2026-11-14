@@ -28,3 +28,5 @@ README, USER_STORIES, CHECKLIST, TEST_CASES, DEFECTS, SPRINT_LOG, `docs/USER_GUI
 4. Тесты и найденная ошибка D-1.
 5. Работа команды: роли, ветки, просмотр изменений перед слиянием.
 6. Ограничения и возможные улучшения.
+
+Проект проверен на macOS и Windows.
