@@ -1,0 +1,72 @@
+[
+  {
+    "inv_number": "INV-001",
+    "type": "ПК",
+    "name": "Dell OptiPlex 3080",
+    "room": "101",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-002",
+    "type": "монитор",
+    "name": "Samsung S24",
+    "room": "101",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-003",
+    "type": "принтер",
+    "name": "HP LaserJet 1018",
+    "room": "205",
+    "state": "требует ремонта"
+  },
+  {
+    "inv_number": "INV-004",
+    "type": "ПК",
+    "name": "Lenovo ThinkCentre M70",
+    "room": "102",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-005",
+    "type": "проектор",
+    "name": "Epson EB-X06",
+    "room": "301",
+    "state": "списано"
+  },
+  {
+    "inv_number": "INV-006",
+    "type": "монитор",
+    "name": "LG 22MK430",
+    "room": "102",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-007",
+    "type": "ПК",
+    "name": "HP ProDesk 400",
+    "room": "110",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-008",
+    "type": "монитор",
+    "name": "Dell P2419H",
+    "room": "110",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-009",
+    "type": "принтер",
+    "name": "Canon i-SENSYS LBP6030",
+    "room": "205",
+    "state": "исправно"
+  },
+  {
+    "inv_number": "INV-010",
+    "type": "проектор",
+    "name": "BenQ MX550",
+    "room": "301",
+    "state": "исправно"
+  }
+]
