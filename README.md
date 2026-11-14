@@ -85,3 +85,7 @@ docker run -it --rm -v "$(pwd)/data:/app/data" inventory
 
 ## Команда
 Курлаева Алина, Егор
+
+## Запуск тестов
+
+Команда: python -m pytest
